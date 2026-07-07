@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Osin 👋
 
-<!--
-**osinsomkuwar-27/osinsomkuwar-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A third-year Information Technology student based in Pune, India.
+Currently building full-stack applications and AI-powered solutions through hackathons, and open-source projects.
+I build applications using JavaScript, React, Node.js, Express, MongoDB, and Python.
+Interested in backend engineering, AI, distributed systems, and developer tools.
+Currently exploring scalable backend architectures, machine learning, and cloud technologies.
 
-Here are some ideas to get you started:
+### Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/osin-somkuwar-a70157306/)) •
+[GitHub](https://github.com/osinsomkuwar-27) •
+Email: osinsomkuwar26@gmail.com
