@@ -1,4 +1,4 @@
-# Hello, I'm Osin 👋
+# Hello, I'm Osin 
 
 A third-year Information Technology student based in Pune, India.
 Currently building full-stack applications and AI-powered solutions through hackathons, and open-source projects.
