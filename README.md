@@ -8,6 +8,6 @@ Currently exploring scalable backend architectures, machine learning, and cloud 
 
 ### Connect with me
 
-[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/osin-somkuwar-a70157306/)) •
+[LinkedIn](https://www.linkedin.com/in/osin-somkuwar-a70157306/) •
 [GitHub](https://github.com/osinsomkuwar-27) •
-Email: osinsomkuwar26@gmail.com
+[Email](mailto:osinsomkuwar26@gmail.com)
