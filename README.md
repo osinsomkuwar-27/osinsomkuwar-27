@@ -1,10 +1,11 @@
 # Hello, I'm Osin 
 
 A third-year Information Technology student based in Pune, India.
+
 Currently building full-stack applications and AI-powered solutions through hackathons, and open-source projects.
 I build applications using JavaScript, React, Node.js, Express, MongoDB, and Python.
+
 Interested in backend engineering, AI, distributed systems, and developer tools.
-Currently exploring scalable backend architectures, machine learning, and cloud technologies.
 
 ### Connect with me
 
