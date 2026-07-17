@@ -10,5 +10,4 @@ Interested in backend engineering, AI, distributed systems, and developer tools.
 ### Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/osin-somkuwar-a70157306/) •
-[GitHub](https://github.com/osinsomkuwar-27) •
 [Email](mailto:osinsomkuwar26@gmail.com)
